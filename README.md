@@ -1,6 +1,6 @@
 # Pet Boutique
 
-Link do deploy:  https://app.netlify.com/teams/silas-badaro/projects
+Link do deploy: https://projeto-pet-shop.netlify.app/
 
 Pequeno site institucional para uma Pet Boutique demonstrando serviços, marcas e contato.
 
